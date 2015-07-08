@@ -22,17 +22,17 @@ https://class.coursera.org/ml/lecture/preview
 
 >#####Best and Most Recent Submission
 
->Score
->		100 / 100 points earned `PASSED`
->		Submitted on 6 七月 2015 在 7:35 晚上
->		Part	Name	Score
->		1	Warm up exercise	10 / 10
->		2	Compute cost for one variable	40 / 40
->		3	Gradient descent for one variable	50 / 50
->		4	Feature normalization	0 / 0
->		5	Compute cost for multiple variables	0 / 0
->		6	Gradient descent for multiple variables	0 / 0
->		7	Normal equations	0 / 0
+		>Score
+		>100 / 100 points earned `PASSED`
+		>Submitted on 6 七月 2015 在 7:35 晚上
+		>Part	Name	Score
+		>1	Warm up exercise	10 / 10
+		>2	Compute cost for one variable	40 / 40
+		>3	Gradient descent for one variable	50 / 50
+		>4	Feature normalization	0 / 0
+		>5	Compute cost for multiple variables	0 / 0
+		>6	Gradient descent for multiple variables	0 / 0
+		>7	Normal equations	0 / 0
 
 ## Week 3 - Due 07/18: `DONE`
 - Logistic regression
