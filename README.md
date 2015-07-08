@@ -21,6 +21,8 @@ https://class.coursera.org/ml/lecture/preview
 - Programming Exercise 1: Linear Regression
 
 	Best and Most Recent Submission
+	Best and Most Recent Submission
+	Best and Most Recent Submission
 
 	Score
 	100 / 100 points earned PASSED
