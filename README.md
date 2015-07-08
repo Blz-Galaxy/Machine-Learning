@@ -1,4 +1,4 @@
-ï»¿machine-learning-coursera
+machine-learning-coursera
 =========================
 Coursera machine learning course resources.
 
@@ -10,12 +10,12 @@ http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf
 https://class.coursera.org/ml/lecture/preview
 
 # Schedule:
-## Week 1 - Due 07/04:
+## Week 1 - Due 07/04: `DONE`
 - Introduction
 - Linear regression with one variable
 - Linear Algebra review (Optional)
 
-## Week 2 - Due 07/11:
+## Week 2 - Due 07/11: `DONE`
 - Linear regression with multiple variables
 - Octave tutorial
 - Programming Exercise 1: Linear Regression
@@ -23,8 +23,8 @@ https://class.coursera.org/ml/lecture/preview
 >#####Best and Most Recent Submission
 
 >Score
->100 / 100 points earned PASSED
->Submitted on 6 ä¸ƒæœˆ 2015 ï¿½?7:35 æ™šä¸Š
+>100 / 100 points earned `PASSED`
+>Submitted on 6 ÆßÔÂ 2015 ÔÚ 7:35 ÍíÉÏ
 >Part	Name	Score
 >1	Warm up exercise	10 / 10
 >2	Compute cost for one variable	40 / 40
@@ -34,7 +34,7 @@ https://class.coursera.org/ml/lecture/preview
 >6	Gradient descent for multiple variables	0 / 0
 >7	Normal equations	0 / 0
 
-## Week 3 - Due 07/18:
+## Week 3 - Due 07/18: `DONE`
 - Logistic regression
 - Regularization
 - Programming Exercise 2: Logistic Regression
@@ -43,7 +43,7 @@ Best and Most Recent Submission
 
 Score
 100 / 100 points earned PASSED
-Submitted on 8 ä¸ƒæœˆ 2015 ï¿½?1:00 å‡Œæ™¨
+Submitted on 8 ÆßÔÂ 2015 ÔÚ 1:00 Áè³¿
 Part	Name	Score
 1	Sigmoid function	5 / 5
 2	Compute cost for logistic regression	30 / 30
@@ -52,7 +52,7 @@ Part	Name	Score
 5	Compute cost for regularized LR	15 / 15
 6	Gradient for regularized LR	15 / 15
 
-## Week 4 - Due 07/25:
+## Week 4 - Due 07/25: `DONE`
 - Neural Networks: Representation
 - Programming Exercise 3: Multi-class Classification and Neural Networks
 
@@ -60,7 +60,7 @@ Best and Most Recent Submission
 
 Score
 100 / 100 points earned PASSED
-Submitted on 9 ä¸ƒæœˆ 2015 ï¿½?1:16 å‡Œæ™¨
+Submitted on 9 ÆßÔÂ 2015 ÔÚ 1:16 Áè³¿
 Part	Name	Score
 1	Regularized logistic regression	30 / 30
 2	One-vs-all classifier training	20 / 20
