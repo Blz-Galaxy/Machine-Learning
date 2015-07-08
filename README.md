@@ -20,19 +20,19 @@ https://class.coursera.org/ml/lecture/preview
 - Octave tutorial
 - Programming Exercise 1: Linear Regression
 
-Best and Most Recent Submission
+	Best and Most Recent Submission
 
-Score
-100 / 100 points earned PASSED
-Submitted on 6 ÆßÔÂ 2015 ÔÚ 7:35 ÍíÉÏ
-Part	Name	Score
-1	Warm up exercise	10 / 10
-2	Compute cost for one variable	40 / 40
-3	Gradient descent for one variable	50 / 50
-4	Feature normalization	0 / 0
-5	Compute cost for multiple variables	0 / 0
-6	Gradient descent for multiple variables	0 / 0
-7	Normal equations	0 / 0
+	Score
+	100 / 100 points earned PASSED
+	Submitted on 6 ä¸ƒæœˆ 2015 åœ¨ 7:35 æ™šä¸Š
+	Part	Name	Score
+	1	Warm up exercise	10 / 10
+	2	Compute cost for one variable	40 / 40
+	3	Gradient descent for one variable	50 / 50
+	4	Feature normalization	0 / 0
+	5	Compute cost for multiple variables	0 / 0
+	6	Gradient descent for multiple variables	0 / 0
+	7	Normal equations	0 / 0
 
 ## Week 3 - Due 07/18:
 - Logistic regression
@@ -43,7 +43,7 @@ Best and Most Recent Submission
 
 Score
 100 / 100 points earned PASSED
-Submitted on 8 ÆßÔÂ 2015 ÔÚ 1:00 Áè³¿
+Submitted on 8 ä¸ƒæœˆ 2015 åœ¨ 1:00 å‡Œæ™¨
 Part	Name	Score
 1	Sigmoid function	5 / 5
 2	Compute cost for logistic regression	30 / 30
@@ -60,7 +60,7 @@ Best and Most Recent Submission
 
 Score
 100 / 100 points earned PASSED
-Submitted on 9 ÆßÔÂ 2015 ÔÚ 1:16 Áè³¿
+Submitted on 9 ä¸ƒæœˆ 2015 åœ¨ 1:16 å‡Œæ™¨
 Part	Name	Score
 1	Regularized logistic regression	30 / 30
 2	One-vs-all classifier training	20 / 20
