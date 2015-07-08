@@ -20,9 +20,9 @@ https://class.coursera.org/ml/lecture/preview
 - Octave tutorial
 - Programming Exercise 1: Linear Regression
 
-		#####Best and Most Recent Submission
+		Best and Most Recent Submission
 		Score
-		100 / 100 points earned `PASSED`
+		100 / 100 points earned PASSED
 		Submitted on 6 七月 2015 在 7:35 晚上
 		Part	Name	Score
 		1	Warm up exercise	10 / 10
@@ -38,7 +38,7 @@ https://class.coursera.org/ml/lecture/preview
 - Regularization
 - Programming Exercise 2: Logistic Regression
 
-		#####Best and Most Recent Submission
+		Best and Most Recent Submission
 		Score
 		100 / 100 points earned PASSED
 		Submitted on 8 七月 2015 在 1:00 凌晨
@@ -54,7 +54,7 @@ https://class.coursera.org/ml/lecture/preview
 - Neural Networks: Representation
 - Programming Exercise 3: Multi-class Classification and Neural Networks
 
-		#####Best and Most Recent Submission
+		Best and Most Recent Submission
 		Score
 		100 / 100 points earned PASSED
 		Submitted on 9 七月 2015 在 1:16 凌晨
