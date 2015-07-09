@@ -68,16 +68,16 @@ https://class.coursera.org/ml/lecture/preview
 - Neural Networks: Learning
 - Programming Exercise 4: Neural Networks Learning
 
-Best and Most Recent Submission
-Score
-100 / 100 points earned PASSED
-Submitted on 9 七月 2015 在 7:25 晚上
-Part	Name	Score
-1	Feedforward and cost function	30 / 30
-2	Regularized cost function	15 / 15
-3	Sigmoid gradient	5 / 5
-4	Neural net gradient function (backpropagation)	40 / 40
-5	Regularized gradient	10 / 10
+		Best and Most Recent Submission
+		Score
+		100 / 100 points earned PASSED
+		Submitted on 9 七月 2015 在 7:25 晚上
+		Part	Name	Score
+		1	Feedforward and cost function	30 / 30
+		2	Regularized cost function	15 / 15
+		3	Sigmoid gradient	5 / 5
+		4	Neural net gradient function (backpropagation)	40 / 40
+		5	Regularized gradient	10 / 10
 
 ## Week 6 - Due 08/08:
 - Advice for applying machine learning
