@@ -64,9 +64,20 @@ https://class.coursera.org/ml/lecture/preview
 		3	One-vs-all classifier prediction	20 / 20
 		4	Neural network prediction function	30 / 30
 
-## Week 5 - Due 08/01:
+## Week 5 - Due 08/01: `DONE`
 - Neural Networks: Learning
 - Programming Exercise 4: Neural Networks Learning
+
+Best and Most Recent Submission
+Score
+100 / 100 points earned PASSED
+Submitted on 9 ÆßÔÂ 2015 ÔÚ 7:25 ÍíÉÏ
+Part	Name	Score
+1	Feedforward and cost function	30 / 30
+2	Regularized cost function	15 / 15
+3	Sigmoid gradient	5 / 5
+4	Neural net gradient function (backpropagation)	40 / 40
+5	Regularized gradient	10 / 10
 
 ## Week 6 - Due 08/08:
 - Advice for applying machine learning
