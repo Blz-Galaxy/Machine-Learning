@@ -79,10 +79,21 @@ https://class.coursera.org/ml/lecture/preview
 		4	Neural net gradient function (backpropagation)	40 / 40
 		5	Regularized gradient	10 / 10
 
-## Week 6 - Due 08/08:
+## Week 6 - Due 08/08: `DONE`
 - Advice for applying machine learning
 - Machine learning system design
 - Programming Exercise 5: Regularized Linear Regression and Bias v.s. Variance
+
+		Best and Most Recent Submission
+		Score
+		100 / 100 points earned PASSED
+		Submitted on 11 ÆßÔÂ 2015 ÔÚ 3:28 Áè³¿
+		Part	Name	Score
+		1	Regularized linear regression cost function	25 / 25
+		2	Regularized linear regression gradient	25 / 25
+		3	Learning curve	20 / 20
+		4	Polynomial feature mapping	10 / 10
+		5	Cross validation curve	20 / 20
 
 ## Week 7 - Due 08/15:
 - Support vector machines
