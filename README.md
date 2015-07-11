@@ -95,9 +95,19 @@ https://class.coursera.org/ml/lecture/preview
 		4	Polynomial feature mapping	10 / 10
 		5	Cross validation curve	20 / 20
 
-## Week 7 - Due 08/15:
+## Week 7 - Due 08/15: `DONE`
 - Support vector machines
 - Programming Exercise 6: Support Vector Machines
+
+		Best and Most Recent Submission
+		Score
+		100 / 100 points earned PASSED
+		Submitted on 12 ÆßÔÂ 2015 ÔÚ 2:48 Áè³¿
+		Part	Name	Score
+		1	Gaussian kernel	25 / 25
+		2	Parameters (C, sigma) for dataset 3	25 / 25
+		3	Email preprocessing	25 / 25
+		4	Email feature extraction	25 / 25
 
 ## Week 8 - Due 08/22:
 - Clustering
