@@ -109,11 +109,21 @@ https://class.coursera.org/ml/lecture/preview
 		3	Email preprocessing	25 / 25
 		4	Email feature extraction	25 / 25
 
-## Week 8 - Due 08/22:
+## Week 8 - Due 08/22: `DONE`
 - Clustering
 - Dimensionality reduction
-- Programming Exercise 7:
-K-means Clustering and Principal Component Analysis
+- Programming Exercise 7: K-means Clustering and Principal Component Analysis
+
+		Best and Most Recent Submission
+		Score
+		100 / 100 points earned PASSED
+		Submitted on 13 ÆßÔÂ 2015 ÔÚ 2:45 Áè³¿
+		Part	Name	Score
+		1	Find closest centroids	30 / 30
+		2	Compute centroid means	30 / 30
+		3	PCA	20 / 20
+		4	Project data	10 / 10
+		5	Recover data	10 / 10
 
 ## Week 9 - Due 08/29:
 - Anomaly Detection
