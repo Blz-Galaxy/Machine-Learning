@@ -125,10 +125,22 @@ https://class.coursera.org/ml/lecture/preview
 		4	Project data	10 / 10
 		5	Recover data	10 / 10
 
-## Week 9 - Due 08/29:
+## Week 9 - Due 08/29: `DONE`
 - Anomaly Detection
 - Recommender Systems
 - Programming Exercise 8: Anomaly Detection and Recommender Systems
+
+		Best and Most Recent Submission
+		Score
+		100 / 100 points earned PASSED
+		Submitted on 14 ÆßÔÂ 2015 ÔÚ 8:12 ÍíÉÏ
+		Part	Name	Score
+		1	Estimate gaussian parameters	15 / 15
+		2	Select threshold	15 / 15
+		3	Collaborative filtering cost	20 / 20
+		4	Collaborative filtering gradient	30 / 30
+		5	Regularized cost	10 / 10
+		6	Gradient with regularization	10 / 10
 
 ## Week 10/11 - Due 09/05:
 - Large scale machine learning
