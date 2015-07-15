@@ -142,6 +142,18 @@ https://class.coursera.org/ml/lecture/preview
 		5	Regularized cost	10 / 10
 		6	Gradient with regularization	10 / 10
 
-## Week 10/11 - Due 09/05:
+## Week 10/11 - Due 09/05: `DONE`
 - Large scale machine learning
 - Application example: Photo OCR
+
+###Final Grade: 100%
+
+## Summary 
+-Supervised Learning
+> Linear regression, logistic regression, neural networks, SVMs
+-Unsupervised Learning
+> K-means, PCA, Anomaly detection
+-Special applications/special topics
+> Recommender systems, large scale machine learning
+-Advice on building a machine learning system
+> Bias/variance, regularization; deciding what to work on next: evalution of learning algorithms, learning curves, error analysis, ceiling analysis.
