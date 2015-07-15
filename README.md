@@ -150,10 +150,13 @@ https://class.coursera.org/ml/lecture/preview
 
 ## Summary 
 -Supervised Learning
-> Linear regression, logistic regression, neural networks, SVMs
+		Linear regression, logistic regression, neural networks, SVMs
+
 -Unsupervised Learning
-> K-means, PCA, Anomaly detection
+		K-means, PCA, Anomaly detection
+
 -Special applications/special topics
-> Recommender systems, large scale machine learning
+		Recommender systems, large scale machine learning
+
 -Advice on building a machine learning system
-> Bias/variance, regularization; deciding what to work on next: evalution of learning algorithms, learning curves, error analysis, ceiling analysis.
+		Bias/variance, regularization; deciding what to work on next: evalution of learning algorithms, learning curves, error analysis, ceiling analysis.
